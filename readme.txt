@@ -1,2 +1,2 @@
 O projeto Git irá permitir ao aluno ....
-Exercício de alterar o arquivo
+alteração do atquivo readme.txt
